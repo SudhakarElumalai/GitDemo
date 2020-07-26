@@ -14,6 +14,7 @@ public class stepDefinition {
 	        
 		  System.out.println("User is on Landing Page");
 		  System.out.println("Navgated To Login page");
+		  System.out.println("Passed");
 	    }
 
 	  @When("^User Login into application with username and password$")
