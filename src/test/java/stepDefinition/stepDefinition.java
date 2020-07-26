@@ -13,6 +13,7 @@ public class stepDefinition {
 	    public void user_is_on_landing_page() throws Throwable {
 	        
 		  System.out.println("User is on Landing Page");
+		  System.out.println("Navgated To Login page");
 	    }
 
 	  @When("^User Login into application with username and password$")
